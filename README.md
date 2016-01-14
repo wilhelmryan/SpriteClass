@@ -1,0 +1,2 @@
+# SpriteClass
+FastLED based sprites
